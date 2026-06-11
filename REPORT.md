@@ -2,11 +2,12 @@
 
 ## Project Information
 
-**Project Title:** Data Visualization using Iris Dataset
-**Internship:** Data Science Internship
-**Organization:** Synent Technologies
-**Submitted By:** Riya Kalariya
+## Project Information
 
+- **Project Title:** Data Visualization using Iris Dataset
+- **Internship:** Data Science Internship
+- **Organization:** Synent Technologies
+- **Submitted By:** Riya Kalariya
 ---
 
 ## Objective
